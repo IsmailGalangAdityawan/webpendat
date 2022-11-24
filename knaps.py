@@ -22,7 +22,7 @@ from sklearn.utils.validation import joblib
 
 
 st.title("PENAMBANGAN DATA")
-st.write("By: Sobariyah Maghfiroh - 200411100188")
+st.write("By: ISMAIL GALANG ADITYAWAN - 200411100196")
 st.write("Grade: Penambangan Data C")
 upload_data, preporcessing, modeling, implementation = st.tabs(["Upload Data", "Prepocessing", "Modeling", "Implementation"])
 
