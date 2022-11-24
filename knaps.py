@@ -13,6 +13,9 @@ from sklearn.ensemble import BaggingClassifier
 from sklearn.datasets import make_classification
 from sklearn.svm import SVC
 
+st.title("DATA MINING")
+st.write("ISMAIL GALANG ADITYAWAN")
+st.write("Penambangan Data)
 st.write(""" 
 # Cek data
 """)
