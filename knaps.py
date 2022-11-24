@@ -14,11 +14,8 @@ from sklearn.datasets import make_classification
 from sklearn.svm import SVC
 
 st.title("DATA MINING")
-st.write("ISMAIL GALANG ADITYAWAN")
-st.write("Penambangan Data")
-st.write(""" 
-# Cek data
-""")
+st.write("ISMAIL GALANG ADITYAWAN-200411100196")
+st.write("Penambangan Data C")
 
 st.write("=========================================================================")
 
